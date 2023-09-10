@@ -1,12 +1,13 @@
 # Olá, pessoal! João Pedro aqui 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedrodeSousa&show_icons=true&theme=radical&layout=pie)](https://github.com/anuraghazra/github-readme-stats)<br>
+
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedrodeSousa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🚀 Tecnologias e Ferramentas
 <div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedrodeSousa&show_icons=true&theme=radical&layout=pie)](https://github.com/anuraghazra/github-readme-stats)<br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
