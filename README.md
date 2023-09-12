@@ -1,9 +1,9 @@
 # Olá, pessoal! João Pedro aqui 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedrodeSousa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🚀 Tecnologias e Ferramentas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedrodeSousa&show_icons=true&theme=radical&layout=pie)](https://github.com/anuraghazra/github-readme-stats)<br>
+
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
