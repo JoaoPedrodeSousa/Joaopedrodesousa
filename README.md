@@ -1,6 +1,6 @@
 # Olá, pessoal! João Pedro aqui 👋
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedrodeSousa&show_icons=true&theme=radical&layout=pie)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 ## 🚀 Tecnologias e Ferramentas
 
